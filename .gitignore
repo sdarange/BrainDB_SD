@@ -3,3 +3,17 @@ node_modules/
 
 # env
 .env
+
+# node modules
+node_modules/
+
+# env
+.env
+
+# Terraform
+*.lock.*
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+crash.log
